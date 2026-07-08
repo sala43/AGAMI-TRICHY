@@ -1,0 +1,6 @@
+com\dualnet\planner\repository\ConsignmentRepository.class
+com\dualnet\planner\service\ConsignmentService.class
+com\dualnet\planner\service\ConsignmentServiceImpl.class
+com\dualnet\planner\DualNetMiniPlannerApplication.class
+com\dualnet\planner\entity\Consignment.class
+com\dualnet\planner\controller\ConsignmentController.class
